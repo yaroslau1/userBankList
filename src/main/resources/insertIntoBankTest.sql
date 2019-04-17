@@ -1,0 +1,2 @@
+insert into user (name,sureName) values ("ira","savchits"),("kirill","ivanov"),("sasha","ziko"),("sveta","semenova"),("kostya","denisov"),("rita","ivanova"),("ruslan","petrov"),("lada","black"),("zoya","kot"),("nina","love");
+insert into account (account,userid) values (1,1),(2,2),(3,3),(4,4),(5,5),(6,6),(7,7),(8,8),(9,9),(10,10),(32,3),(8,7)
